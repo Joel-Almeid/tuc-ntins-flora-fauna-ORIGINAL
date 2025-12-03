@@ -174,8 +174,10 @@ const SocialIntegrationSection = () => {
               </span>{" "}
               e nós compartilharemos!
             </p>
-            <Button className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold">
-              Saiba como Contribuir
+            <Button asChild className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold">
+              <a href="https://wa.me/5595991220024?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20como%20tornar-me%20um%20colaborador%20do%20projeto" target="_blank" rel="noopener noreferrer">
+                Saiba como Colaborador
+              </a>
             </Button>
           </div>
         </div>
