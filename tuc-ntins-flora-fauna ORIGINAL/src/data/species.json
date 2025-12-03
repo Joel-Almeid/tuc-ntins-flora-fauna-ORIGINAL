@@ -1,0 +1,635 @@
+[
+  {
+    "id": "caititu",
+    "commonName": "Caititu",
+    "scientificName": "Dicotyles tajacu",
+    "classification": "Mammalia, Artiodactyla, Tayassuidae",
+    "description": "O caititu é um mamífero de médio porte da família Tayassuidae, encontrado em florestas e cerrados. Possui pelagem escura com uma faixa mais clara no pescoço. Vive em bandos e se alimenta de frutos, raízes e pequenos invertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais, cerrado e áreas de transição",
+    "images": ["/images/caititu-1.jpg", "/images/caititu-2.jpg"]
+  },
+  {
+    "id": "jaguatirica",
+    "commonName": "Jaguatirica",
+    "scientificName": "Leopardus pardalis",
+    "classification": "Mammalia, Carnivora, Felidae",
+    "description": "Felino de médio porte com pelagem amarelada e manchas pretas em forma de rosetas. É um predador ágil e noturno, alimentando-se de pequenos mamíferos, aves e répteis. Habita diversos ambientes florestais.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e subtropicais",
+    "images": [
+      "/images/jaguatirica-1.jpg",
+      "/images/jaguatirica-2.jpg",
+      "/images/jaguatirica-3.jpg"
+    ],
+    "audio": "/audio/jaguatirica.mp3"
+  },
+  {
+    "id": "onca-parda",
+    "commonName": "Onça-parda",
+    "scientificName": "Puma concolor",
+    "classification": "Mammalia, Carnivora, Felidae",
+    "description": "A onça-parda, também conhecida como suçuarana, é o segundo maior felino das Américas. Possui pelagem uniforme que varia de marrom-acinzentado a marrom-avermelhado. É um predador solitário e adaptável.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Diversos habitats, desde florestas até áreas montanhosas",
+    "images": ["/images/onca-parda-1.jpg"],
+    "audio": "/audio/onca-parda.mp3"
+  },
+  {
+    "id": "mutum-poranga",
+    "commonName": "Mutum-poranga",
+    "scientificName": "Crax alector",
+    "classification": "Aves, Galliformes, Cracidae",
+    "description": "Ave de grande porte da família Cracidae, com plumagem predominantemente preta nos machos e corpo robusto. Possui um topete característico. Vive em florestas úmidas e se alimenta principalmente de frutos.",
+    "conservation": "Vulnerável",
+    "habitat": "Florestas tropicais úmidas",
+    "images": ["/images/mutum-poranga-1.jpg"],
+    "audio": "/audio/mutum-poranga.mp3"
+  },
+  {
+    "id": "paca",
+    "commonName": "Paca",
+    "scientificName": "Cuniculus paca",
+    "classification": "Mammalia, Rodentia, Cuniculidae",
+    "description": "Roedor de grande porte com pelagem marrom-avermelhada e listras brancas laterais. É um animal noturno e solitário, excelente nadador. Alimenta-se de frutos, sementes e vegetação.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas próximas a cursos d'água",
+    "images": [
+      "/images/paca-1.jpg",
+      "/images/paca-2.jpg",
+      "/images/paca-3.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Paca/DSCF0537.JPG",
+      "/images/ilha-do-bananal/Ilha do Bananal/Paca/DSCF0539.JPG"
+    ],
+    "videos": [
+      "/images/videos/paca-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Paca/PACA1.mp4"
+    ],
+    "audio": "/audio/paca.mp3"
+  },
+  {
+    "id": "tamandua-bandeira",
+    "commonName": "Tamanduá-bandeira",
+    "scientificName": "Myrmecophaga tridactyla",
+    "classification": "Mammalia, Pilosa, Myrmecophagidae",
+    "description": "O maior tamanduá das Américas, facilmente reconhecível pela cauda longa e espessa e pela faixa diagonal preta com bordas brancas. Alimenta-se exclusivamente de formigas e cupins usando sua língua longa e pegajosa.",
+    "conservation": "Vulnerável",
+    "habitat": "Cerrado, campos e florestas abertas",
+    "images": [
+      "/images/tamandua-bandeira-1.jpg",
+      "/images/tamandua-bandeira-2.jpg"
+    ],
+    "audio": "/audio/tamandua-bandeira.mp3"
+  },
+  {
+    "id": "cutia",
+    "commonName": "Cutia",
+    "scientificName": "Dasyprocta prymnolopha",
+    "classification": "Mammalia, Rodentia, Dasyproctidae",
+    "description": "Roedor de porte médio com pelagem marrom-avermelhada. É diurna e desempenha papel importante na dispersão de sementes. Vive em áreas florestais e se alimenta de frutos, sementes e vegetação.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e cerrado",
+    "images": [
+      "/images/cutia-1.jpg",
+      "/images/cutia-2.jpg",
+      "/images/cutia-3.jpg"
+    ],
+    "audio": "/audio/cutia.mp3"
+  },
+  {
+    "id": "cutia-de-dorso-preto",
+    "commonName": "Cutia-de-dorso-preto",
+    "scientificName": "Dasyprocta fuliginosa",
+    "classification": "Mammalia, Rodentia, Dasyproctidae",
+    "description": "Roedor de porte médio com pelagem escura, quase preta, no dorso. É diurna e desempenha papel importante na dispersão de sementes. Vive em áreas florestais e se alimenta de frutos, sementes e vegetação.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais",
+    "images": [
+      "/images/ilha-do-bananal/Ilha do Bananal/Cutia-de-dorso-preto/DSCF0109 (2).JPG",
+      "/images/ilha-do-bananal/Ilha do Bananal/Cutia-de-dorso-preto/DSCF0115.JPG"
+    ],
+    "videos": [
+      "/images/ilha-do-bananal/Ilha do Bananal/Cutia-de-dorso-preto/DSCF0110.AVI",
+      "/images/ilha-do-bananal/Ilha do Bananal/Cutia-de-dorso-preto/DSCF0116 (1).AVI"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "cachorro-do-mato",
+    "commonName": "Cachorro-do-mato",
+    "scientificName": "Cerdocyon thous",
+    "classification": "Mammalia, Carnivora, Canidae",
+    "description": "Canídeo de porte médio com pelagem cinza-amarelada e cauda espessa. É onívoro e oportunista, adaptando-se a diversos ambientes. Possui hábitos noturnos e vive geralmente em pares ou pequenos grupos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, campos e áreas de transição",
+    "images": [
+      "/images/cachorro-do-mato-1.jpg",
+      "/images/cachorro-do-mato-2.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Cachorro-do-mato/DSCF0221 (2).JPG"
+    ],
+    "videos": [
+      "/images/videos/cachorro-do-mato-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Cachorro-do-mato/Cachorro (1).mp4"
+    ],
+    "audio": "/audio/cachorro-do-mato.mp3"
+  },
+  {
+    "id": "veado-catingueiro",
+    "commonName": "Veado-catingueiro",
+    "scientificName": "Subulo gouazoubira",
+    "classification": "Mammalia, Artiodactyla, Cervidae",
+    "description": "Cervídeo de pequeno a médio porte com pelagem marrom-acinzentada. Possui orelhas grandes e não apresenta galhadas proeminentes. É encontrado em áreas abertas e de cerrado.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, caatinga e áreas abertas",
+    "images": [
+      "/images/veado-catingueiro-1.jpg",
+      "/images/veado-catingueiro-2.jpg",
+      "/images/veado-catingueiro-3.jpg",
+      "/images/veado-catingueiro-4.jpg",
+      "/images/veado-catingueiro-5.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Veado-catingueiro/DSCF0073 (1).JPG"
+    ],
+    "videos": [
+      "/images/videos/veado-catingueiro-1.mp4",
+      "/images/videos/veado-catingueiro-2.mp4",
+      "/images/videos/veado-catingueiro-3.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Veado-catingueiro/veado-catingueiroilh2.mp4"
+    ],
+    "audio": "/audio/veado-catingueiro.mp3"
+  },
+  {
+    "id": "jacupemba",
+    "commonName": "Jacupemba",
+    "scientificName": "Penelope superciliaris",
+    "classification": "Aves, Galliformes, Cracidae",
+    "description": "Ave de grande porte da família Cracidae, com plumagem predominantemente marrom-escura e uma faixa branca acima dos olhos. Vive em florestas e se alimenta principalmente de frutos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e subtropicais",
+    "images": [
+      "/images/jacupemba-1.jpg",
+      "/images/jacupemba-2.jpg",
+      "/images/jacupemba-3.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Jacupemba/DSCF0263.JPG"
+    ],
+    "audio": "/audio/jacupemba.mp3"
+  },
+  {
+    "id": "anta",
+    "commonName": "Anta",
+    "scientificName": "Tapirus terrestris",
+    "classification": "Mammalia, Perissodactyla, Tapiridae",
+    "description": "O maior mamífero terrestre da América do Sul, com corpo robusto, pelagem marrom-escura e focinho alongado e móvel (probóscide). Herbívoro, se alimenta de folhas, frutos e plantas aquáticas. Excelente nadador.",
+    "conservation": "Vulnerável",
+    "habitat": "Florestas tropicais, cerrado e áreas próximas a cursos d'água",
+    "images": [
+      "/images/anta-1.jpg",
+      "/images/anta-2.jpg",
+      "/images/anta-3.jpg",
+      "/images/anta-4.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0919-023210_000134.JPG",
+      "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0920-192213_000188.JPG",
+      "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0926-194004_000302.JPG"
+    ],
+    "videos": [
+      "/images/videos/anta-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Anta/anta(compilado) (1).mp4"
+    ],
+    "audio": "/audio/anta.mp3"
+  },
+  {
+    "id": "gato-mourisco",
+    "commonName": "Gato-mourisco",
+    "scientificName": "Herpailurus yagouaroundi",
+    "classification": "Mammalia, Carnivora, Felidae",
+    "description": "Felino de porte médio com corpo alongado e baixo, pelagem uniforme que varia de cinza a marrom-avermelhado. Diferentemente de outros felinos, é ativo durante o dia. Alimenta-se de pequenos mamíferos, aves e répteis.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, florestas e áreas abertas",
+    "images": ["/images/gato-mourisco-1.jpg"],
+    "audio": "/audio/gato-mourisco.mp3"
+  },
+  {
+    "id": "gaviao-cara-preta",
+    "commonName": "Gavião-de-cara-preta",
+    "scientificName": "Leucopternis melanops",
+    "classification": "Aves, Accipitriformes, Accipitridae",
+    "description": "Ave de rapina de médio porte com plumagem predominantemente branca e face preta característica. Habita florestas amazônicas, alimentando-se de pequenos vertebrados e insetos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais úmidas da Amazônia",
+    "images": ["/images/gaviao-cara-preta-1.jpg"],
+    "audio": "/audio/gaviao-cara-preta.mp3"
+  },
+  {
+    "id": "onca-pintada",
+    "commonName": "Onça-pintada",
+    "scientificName": "Panthera onca",
+    "classification": "Mammalia, Carnivora, Felidae",
+    "description": "O maior felino das Américas, com pelagem amarelo-dourada coberta de rosetas pretas características. Predador de topo, possui mordida extremamente poderosa. É um símbolo da fauna brasileira e desempenha papel crucial no equilíbrio dos ecossistemas.",
+    "conservation": "Quase Ameaçado",
+    "habitat": "Florestas tropicais, pantanal e cerrado",
+    "images": ["/images/onca-pintada-1.jpg"],
+    "audio": "/audio/onca-pintada.mp3"
+  },
+  {
+    "id": "quati",
+    "commonName": "Quati-de-cauda-anelada",
+    "scientificName": "Nasua nasua",
+    "classification": "Mammalia, Carnivora, Procyonidae",
+    "description": "Mamífero de porte médio com focinho alongado e móvel, pelagem marrom-avermelhada e cauda longa com anéis. Vive em bandos e é diurno. Alimenta-se de frutos, invertebrados e pequenos vertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrado e áreas de transição",
+    "images": [
+      "/images/quati-1.jpg",
+      "/images/quati-2.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Quati/DSCF0091.JPG"
+    ],
+    "videos": [
+      "/images/videos/quati-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Quati/quati1.mp4"
+    ],
+    "audio": "/audio/quati.mp3"
+  },
+  {
+    "id": "mao-pelada",
+    "commonName": "Mão-pelada",
+    "scientificName": "Procyon cancrivorus",
+    "classification": "Mammalia, Carnivora, Procyonidae",
+    "description": "Mamífero noturno com máscara facial preta característica, pelagem cinza-amarelada e cauda com anéis. Habita áreas próximas a cursos d'água. Alimenta-se de caranguejos, moluscos, peixes e frutos. Possui hábito de lavar os alimentos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Matas ciliares, manguezais e áreas próximas a água",
+    "images": ["/images/mao-pelada-1.jpg"],
+    "audio": "/audio/mao-pelada.mp3"
+  },
+  {
+    "id": "inhambu-serra",
+    "commonName": "Inhambu-serra",
+    "scientificName": "Tinamus major",
+    "classification": "Aves, Tinamiformes, Tinamidae",
+    "description": "Ave terrestre de grande porte com plumagem marrom-olivácea e barrado escuro. Possui canto forte e característico. Vive no solo da floresta, alimentando-se de frutos e invertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais úmidas",
+    "images": ["/images/inhambu-serra-1.jpg"],
+    "audio": "/audio/inhambu-serra.mp3"
+  },
+  {
+    "id": "tatu-galinha",
+    "commonName": "Tatu-galinha",
+    "scientificName": "Dasypus novemcinctus",
+    "classification": "Mammalia, Cingulata, Dasypodidae",
+    "description": "Tatu de pequeno porte com nove faixas móveis no dorso. É um animal noturno que se alimenta de insetos, minhocas e pequenos vertebrados. Possui excelente olfato e cava tocas extensas.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrados e áreas abertas",
+    "images": ["/images/tatu-galinha-1.jpg"],
+    "audio": "/audio/tatu-galinha.mp3"
+  },
+  {
+    "id": "tatu-canastra",
+    "commonName": "Tatu-canastra",
+    "scientificName": "Priodontes maximus",
+    "classification": "Mammalia, Cingulata, Dasypodidae",
+    "description": "Maior tatu do mundo, podendo atingir 1,5m de comprimento. Possui 13 faixas móveis e garras enormes para escavar. Especialista em formigas e cupins, cava tocas profundas que servem de abrigo para outros animais.",
+    "conservation": "Vulnerável",
+    "habitat": "Florestas tropicais e savanas",
+    "images": ["/images/tatu-canastra-1.jpg"],
+    "audio": "/audio/tatu-canastra.mp3"
+  },
+  {
+    "id": "lontra-neotropical",
+    "commonName": "Lontra-neotropical",
+    "scientificName": "Lontra longicaudis",
+    "classification": "Mammalia, Carnivora, Mustelidae",
+    "description": "Lontra de corpo alongado com cauda longa e achatada. Excelente nadadora com patas membranosas. Alimenta-se de peixes, crustáceos e anfíbios. Indicadora de qualidade de corpos d'água.",
+    "conservation": "Quase Ameaçada",
+    "habitat": "Rios, lagos e áreas alagadas de florestas tropicais",
+    "images": ["/images/lontra-neotropical-1.jpg"],
+    "audio": "/audio/lontra-neotropical.mp3"
+  },
+  {
+    "id": "veado-mateiro",
+    "commonName": "Veado-mateiro",
+    "scientificName": "Mazama americana",
+    "classification": "Mammalia, Artiodactyla, Cervidae",
+    "description": "Veado de pequeno porte com galhadas curtas nos machos. Possui pelagem vermelha-acinzentada. Vive solitário e é principalmente noturno, alimentando-se de folhas, frutos e brotos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e áreas de borda",
+    "images": ["/images/veado-mateiro-1.jpg"],
+    "audio": "/audio/veado-mateiro.mp3"
+  },
+  {
+    "id": "juriti-pupu",
+    "commonName": "Juriti-pupu",
+    "scientificName": "Leptotila verreauxi",
+    "classification": "Aves, Columbiformes, Columbidae",
+    "description": "Pomba de médio porte com plumagem cinza-clara e manchas negras no pescoço. Vive em pares e se alimenta de sementes no solo. Canto característico de três notas.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas secundárias e bordas florestais",
+    "images": [
+      "/images/juriti-pupu-1.jpg",
+      "/images/juriti-pupu-2.jpg",
+      "/images/juriti-pupu-3.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Juriti-pupu/DSCF0199.JPG",
+      "/images/ilha-do-bananal/Ilha do Bananal/Juriti-pupu/DSCF0243.JPG"
+    ],
+    "audio": "/audio/juriti-pupu.mp3"
+  },
+  {
+    "id": "soco-boi",
+    "commonName": "Socó-boi",
+    "scientificName": "Tigrisoma lineatum",
+    "classification": "Aves, Pelecaniformes, Ardeidae",
+    "description": "Ardeida de corpo escuro com listras brancas no pescoço. Habita rios e lagos de florestas. Alimenta-se de peixes e anfíbios. Noturno e discreto.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Matas ciliares e áreas alagadas",
+    "images": ["/images/soco-boi-1.jpg"],
+    "audio": "/audio/soco-boi.mp3"
+  },
+  {
+    "id": "jacamim-costas-cinzentas",
+    "commonName": "Jacamim-de-costas-cinzentas",
+    "scientificName": "Psophia crepitans",
+    "classification": "Aves, Gruiformes, Psophiidae",
+    "description": "Ave terrestre de grande porte que vive em grupos familiares. Possui canto estridente coletivo. Alimenta-se de sementes, insetos e pequenos frutos no solo da floresta.",
+    "conservation": "Quase Ameaçada",
+    "habitat": "Florestas tropicais de terra firme",
+    "images": ["/images/jacamim-costas-cinzentas-1.jpg"],
+    "audio": "/audio/jacamim-costas-cinzentas.mp3"
+  },
+  {
+    "id": "gamba-comum",
+    "commonName": "Gambá-comum",
+    "scientificName": "Didelphis marsupialis",
+    "classification": "Mammalia, Didelphimorphia, Didelphidae",
+    "description": "Maior gambá das Américas com pelagem cinza e face branca. Marsupial onívoro que se alimenta de frutas, insetos e pequenos vertebrados. Famoso por fingir-se de morto quando ameaçado.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrados e áreas urbanas",
+    "images": ["/images/gamba-comum-1.jpg"],
+    "videos": ["/images/ilha-do-bananal/Ilha do Bananal/Gambá-comum/DSCF0058.AVI"],
+    "audio": "/audio/gamba-comum.mp3"
+  },
+  {
+    "id": "corujinha-do-mato",
+    "commonName": "Corujinha-do-mato",
+    "scientificName": "Megascops choliba",
+    "classification": "Aves, Strigiformes, Strigidae",
+    "description": "Pequena coruja noturna com plumagem moteada que varia de marrom a cinza. Possui orelhinhas características. Habita florestas e áreas florestadas, sendo excelente caçadora de insetos e pequenos vertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrados e áreas urbanas com vegetação",
+    "images": ["/images/corujinha-do-mato-1.jpg"],
+    "audio": "/audio/corujinha-do-mato.mp3"
+  },
+  {
+    "id": "cutia-de-crista",
+    "commonName": "Cutia-de-crista",
+    "scientificName": "Dasyprocta leporina",
+    "classification": "Mammalia, Rodentia, Dasyproctidae",
+    "description": "Roedor de médio porte com pelagem marrom-avermelhada e uma crista de pelos eriçados na cabeça. É diurno e muito ativo, importante na dispersão de sementes. Possui grande agilidade para escapar de predadores.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e cerrado",
+    "images": ["/images/cutia-de-crista-1.jpg"],
+    "audio": "/audio/cutia-de-crista.mp3"
+  },
+  {
+    "id": "irara-comum",
+    "commonName": "Irara comum",
+    "scientificName": "Eira barbara",
+    "classification": "Mammalia, Carnivora, Mustelidae",
+    "description": "Mustelídeo esbelto com pelagem marrom-escura no dorso e claro no ventre. É um predador ágil e versátil, adaptado tanto para terra quanto para árvores. Alimenta-se de pequenos mamíferos, aves, ovos e frutos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais e cerrado",
+    "images": ["/images/irara-comum-1.jpg"],
+    "audio": "/audio/irara-comum.mp3"
+  },
+  {
+    "id": "jacamim",
+    "commonName": "Jacamim-de-costas-cinzentas",
+    "scientificName": "Psophia crepitans",
+    "classification": "Aves, Gruiformes, Psophiidae",
+    "description": "Ave terrestre de grande porte que vive em grupos familiares. Possui canto estridente coletivo. Alimenta-se de sementes, insetos e pequenos frutos no solo da floresta.",
+    "conservation": "Quase Ameaçada",
+    "habitat": "Florestas tropicais de terra firme",
+    "images": ["/images/jacamim-costas-cinzentas-1.jpg"],
+    "audio": "/audio/jacamim-costas-cinzentas.mp3"
+  },
+  {
+    "id": "gamba",
+    "commonName": "Gambá",
+    "scientificName": "Didelphis albiventris",
+    "classification": "Mammalia, Didelphimorphia, Didelphidae",
+    "description": "Gambá de médio porte com pelagem cinza-parda e face branca característica. Marsupial onívoro e noturno, adapta-se bem a diferentes ambientes. É famoso por fingir-se de morto quando ameaçado.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, campos e áreas urbanas",
+    "images": ["/images/gamba-1.jpg"],
+    "audio": "/audio/gamba.mp3"
+  },
+  {
+    "id": "teiu",
+    "commonName": "Teiú",
+    "scientificName": "Salvator merianae",
+    "classification": "Reptilia, Squamata, Teiidae",
+    "description": "Grande lagarto terrestre com corpo robusto e cores variando de amarelo a verde-acinzentado. Possui cauda longa e forte e língua bífida. É um predador ativo e oportunista, alimentando-se de pequenos vertebrados, invertebrados e frutos. Excelente corredor.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrado e áreas abertas",
+    "images": [],
+    "audio": ""
+  },
+  {
+    "id": "coro-coro",
+    "commonName": "Coró-coró",
+    "scientificName": "Mesembrinibis cayennensis",
+    "classification": "Aves, Pelecaniformes, Threskiornithidae",
+    "description": "Ave aquática de médio porte com plumagem preta brilhante e face nua de cor avermelhada. Possui bico longo e ligeiramente recurvado. Vive em grupos em ambientes alagados, alimentando-se de peixes, crustáceos e insetos aquáticos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas úmidas, mangues e pântanos",
+    "images": [],
+    "audio": ""
+  },
+  {
+    "id": "inhambu-chororo",
+    "commonName": "Inhambu-chororó",
+    "scientificName": "Crypturellus parvirostris",
+    "classification": "Aves, Tinamiformes, Tinamidae",
+    "description": "Ave terrestre pequena e discreta com plumagem marrom-acinzentada. Possui canto característico de três notas em ritmo acelerado. Vive no solo da floresta e áreas abertas, alimentando-se de sementes e pequenos invertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, campos e áreas florestadas",
+    "images": [],
+    "audio": ""
+  },
+  {
+    "id": "pomba-asa-branca",
+    "commonName": "Pomba-asa-branca",
+    "scientificName": "Patagioenas picazuro",
+    "classification": "Aves, Columbiformes, Columbidae",
+    "description": "Pomba de grande porte com plumagem predominantemente marrom-acinzentada. Possui manchas brancas nas asas características. Vive em pares ou pequenos grupos, alimentando-se de sementes no solo e em árvores.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrado e áreas urbanas",
+    "images": [],
+    "audio": ""
+  },
+  {
+    "id": "bem-te-vi",
+    "commonName": "Bem-te-vi",
+    "scientificName": "Pitangus sulphuratus",
+    "classification": "Aves, Passeriformes, Tyrannidae",
+    "description": "Ave pequena com plumagem amarela no ventre e cinza no dorso, com máscara facial branca. Possui crista pequena na cabeça. É agressiva e territorial, famosa pelo seu canto que lembra seu nome. Alimenta-se de insetos e pequenos frutos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas abertas, cerrado e ambientes urbanos",
+    "images": [],
+    "videos": [
+      "/images/ilha-do-bananal/Ilha do Bananal/Bem-te-vi/DSCF0194.AVI",
+      "/images/ilha-do-bananal/Ilha do Bananal/Bem-te-vi/DSCF0438.AVI"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "seriema",
+    "commonName": "Seriema",
+    "scientificName": "Cariama cristata",
+    "classification": "Aves, Gruiformes, Cariamidae",
+    "description": "Ave terrestre alta com pernas longas, pescoço alongado e plumagem cinza-acinzentada. Possui crista de penas na cabeça. Excelente corredor, alimenta-se de insetos, pequenos vertebrados e frutos. Possui canto estridente característico.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Campos, cerrado e áreas abertas",
+    "images": [
+      "/images/seriema-1.jpg",
+      "/images/seriema-2.jpg",
+      "/images/seriema-3.jpg"
+    ],
+    "videos": ["/images/videos/seriema-1.mp4", "/images/videos/seriema-2.mp4"],
+    "audio": ""
+  },
+  {
+    "id": "queixada",
+    "commonName": "Queixada",
+    "scientificName": "Tayassu pecari",
+    "classification": "Mammalia, Artiodactyla, Tayassuidae",
+    "description": "Pecari de grande porte, maior que o caititu. Possui pelagem escura, quase preta, com uma faixa clara no pescoço. Vive em manadas de tamanho variável. É onívoro, alimentando-se de frutos, raízes, insetos e pequenos vertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas tropicais, cerrado e áreas de transição",
+    "images": [
+      "/images/queixada-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Queixada/DSCF0093.JPG"
+    ],
+    "videos": [
+      "/images/ilha-do-bananal/Ilha do Bananal/Queixada/DSCF0094.AVI",
+      "/images/ilha-do-bananal/Ilha do Bananal/Queixada/DSCF0138.AVI"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "tatu-peba",
+    "commonName": "Tatu-peba",
+    "scientificName": "Euphractus sexcinctus",
+    "classification": "Mammalia, Cingulata, Dasypodidae",
+    "description": "Tatu de pequeno a médio porte com seis faixas móveis no dorso. Possui uma carapaça robusta e unhas fortes para escavar. É noturno e se alimenta principalmente de insetos, especialmente formigas e cupins.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Cerrado, campos e áreas abertas",
+    "images": [
+      "/images/tatu-peba-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Tatu-peba/DSCF0107 (2).JPG"
+    ],
+    "videos": [
+      "/images/videos/tatu-peba-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Tatu-peba/IMAG0037_7.mp4"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "saracura-tres-potes",
+    "commonName": "Saracura-três-potes",
+    "scientificName": "Aramides cajaneus",
+    "classification": "Aves, Gruiformes, Rallidae",
+    "description": "Ave terrestre de médio porte com plumagem principalmente cinzenta no corpo e vermelha na cabeça e pescoço. Vive em ambientes alagados e próximos a água. Alimenta-se de crustáceos, insetos aquáticos e pequenos vertebrados.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Matas ciliares, pântanos e áreas alagadas",
+    "images": [
+      "/images/saracura-tres-potes-1.jpg",
+      "/images/saracura-tres-potes-2.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Saracura-três-potes/DSCF0199.JPG"
+    ],
+    "videos": ["/images/videos/saracura-tres-potes-1.mp4"],
+    "audio": ""
+  },
+  {
+    "id": "tapicuru",
+    "commonName": "Tapicuru",
+    "scientificName": "Phimosus infuscatus",
+    "classification": "Aves, Pelecaniformes, Threskiornithidae",
+    "description": "Ave aquática de pequeno a médio porte com plumagem predominantemente preta e face nua avermelhada. Possui bico longo e ligeiramente recurvado. Vive em grupos em ambientes alagados, alimentando-se de peixes, crustáceos e insetos aquáticos.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas alagadas, pântanos e margens de rios",
+    "images": [
+      "/images/tapicuru-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Tapicuru/DSCF0127 (3).JPG"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "urubu-cabeca-preta",
+    "commonName": "Urubu-de-cabeça-preta",
+    "scientificName": "Coragyps atratus",
+    "classification": "Aves, Cathartiformes, Cathartidae",
+    "description": "Ave de rapina de grande porte com plumagem predominantemente preta e cabeça nua de cor escura. Possui asas longas e largas. É um abutre neotropical, excelente voador que se alimenta de carniça. Desempenha papel importante na limpeza do ambiente.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas abertas, cerrado e áreas urbanas",
+    "images": [
+      "/images/urubu-cabeca-preta-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Urubu-de-cabeça-preta/DSCF0027 (1).JPG"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "xexeu",
+    "commonName": "Xexéu",
+    "scientificName": "Cacicus cela",
+    "classification": "Aves, Passeriformes, Icteridae",
+    "description": "Ave de médio porte com plumagem predominantemente preta e amarela nos ombros e sob a cauda. Possui face amarela característica. Vive em grupos e constrói ninhos em forma de bolsa. Alimenta-se de insetos, frutos e sementes.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrado e áreas florestadas",
+    "images": [
+      "/images/xexeu-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Xexéu/DSCF0169 (1).JPG"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "capivara",
+    "commonName": "Capivara",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "classification": "Mammalia, Rodentia, Caviidae",
+    "description": "Maior roedor vivo atualmente, podendo atingir até 1,4m de comprimento. Corpo compacto e cabeça grande. Semi-aquático, excelente nadador. Herbívoro que se alimenta de capins e plantas aquáticas. Vive em grupos próximos a corpos d'água.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas próximas a rios, lagos e pântanos",
+    "images": [
+      "/images/capivara-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Capivara/DSCF0551.JPG"
+    ],
+    "videos": [
+      "/images/videos/capivara-1.mp4",
+      "/images/ilha-do-bananal/Ilha do Bananal/Capivara/Capivara.mp4"
+    ],
+    "audio": ""
+  },
+  {
+    "id": "tamandua-mirim",
+    "commonName": "Tamanduá-mirim",
+    "scientificName": "Tamandua tetradactyla",
+    "classification": "Mammalia, Pilosa, Myrmecophagidae",
+    "description": "Tamanduá de pequeno porte com tamanho menor que o tamanduá-bandeira. Possui pelagem predominantemente amarelo-parda com uma faixa preta característica. Possui cauda preênsil e é excelente escalador. Alimenta-se de formigas e cupins.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Florestas, cerrado e áreas arborizadas",
+    "images": ["/images/tamandua-mirim-1.jpg"],
+    "audio": ""
+  },
+  {
+    "id": "jacana",
+    "commonName": "Jaçanã",
+    "scientificName": "Jacana jacana",
+    "classification": "Aves, Charadriiformes, Jacanidae",
+    "description": "Ave pequena com plumagem predominantemente vermelha-castanha e face nua azul-esverdeada. Possui dedos muito longos que permitem caminhar sobre plantas aquáticas flutuantes. Vive em ambientes alagados, alimentando-se de insetos e sementes aquáticas.",
+    "conservation": "Pouco Preocupante",
+    "habitat": "Áreas alagadas, lagoas e pântanos",
+    "images": [
+      "/images/jaçanã-1.jpg",
+      "/images/ilha-do-bananal/Ilha do Bananal/Jaçanã/DSCF0557 (1).JPG"
+    ],
+    "audio": ""
+  }
+]

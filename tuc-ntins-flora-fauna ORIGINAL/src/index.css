@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 250 40% 98%;
+    --foreground: 240 10% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 15%;
+
+    --primary: 38 92% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 155 70% 40%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 20% 88%;
+    --muted-foreground: 240 5% 45%;
+
+    --accent: 35 95% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 20% 92%;
+    --input: 220 20% 95%;
+    --ring: 38 92% 50%;
+
+    --radius: 0.5rem;
+
+    /* Custom tokens */
+    --hero-gradient: linear-gradient(
+      135deg,
+      rgba(255, 248, 240, 0.6) 0%,
+      rgba(240, 248, 255, 0.3) 50%,
+      rgba(255, 250, 245, 0.4) 100%
+    );
+    --card-shadow: 0 4px 12px -2px hsl(0 0% 0% / 0.06);
+    --hover-shadow: 0 8px 20px -4px hsl(0 0% 0% / 0.08);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --gold: 38 92% 50%;
+    --gold-dark: 35 85% 45%;
+
+    --sidebar-background: 250 40% 98%;
+
+    --sidebar-foreground: 240 10% 20%;
+
+    --sidebar-primary: 38 92% 50%;
+
+    --sidebar-primary-foreground: 0 0% 100%;
+
+    --sidebar-accent: 220 20% 92%;
+
+    --sidebar-accent-foreground: 240 10% 20%;
+
+    --sidebar-border: 220 20% 92%;
+
+    --sidebar-ring: 38 92% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
