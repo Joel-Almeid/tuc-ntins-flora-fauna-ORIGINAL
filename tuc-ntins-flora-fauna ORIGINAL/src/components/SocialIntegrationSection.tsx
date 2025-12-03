@@ -34,25 +34,25 @@ const SocialIntegrationSection = () => {
     {
       title: "Jaguar Avistado!",
       description: "Primeira vez registrada na área de Palmas",
-      image: "https://via.placeholder.com/200x200?text=Jaguar",
+      image: "/images/jaguar.jpg",
       likes: 342,
     },
     {
       title: "Tamanduá-bandeira",
       description: "Comportamento de forrageamento capturado",
-      image: "https://via.placeholder.com/200x200?text=Tamanduá",
+      image: "/images/tamandua-bandeira-1.jpg",
       likes: 287,
     },
     {
       title: "Primatas em Ação",
       description: "Grupo de saguis em interação social",
-      image: "https://via.placeholder.com/200x200?text=Primatas",
+      image: "/images/primatas.jpg",
       likes: 456,
     },
     {
       title: "Pássaro Raro",
       description: "Harpia capturada em Roraima",
-      image: "https://via.placeholder.com/200x200?text=Harpia",
+      image: "/images/mutum-poranga-1.jpg",
       likes: 523,
     },
   ];

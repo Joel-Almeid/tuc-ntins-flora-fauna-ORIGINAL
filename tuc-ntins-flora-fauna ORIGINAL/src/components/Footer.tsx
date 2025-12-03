@@ -64,7 +64,7 @@ const Footer = () => {
             <div className="space-y-3 text-sm text-muted-foreground">
               <p className="flex items-start gap-3">
                 <MapPin className="h-4 w-4 mt-0.5 text-primary/70" />
-                <span>Tocantins, Ceá e Roraima</span>
+                <span>Tocantins, Ceará e Roraima</span>
               </p>
               <p className="flex items-start gap-3">
                 <Mail className="h-4 w-4 mt-0.5 text-primary/70" />

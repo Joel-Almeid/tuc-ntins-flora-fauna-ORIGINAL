@@ -4,63 +4,50 @@ import { Github, Linkedin, Mail } from "lucide-react";
 const TeamSection = () => {
   const team = [
     {
-      name: "Dr. João Silva",
-      role: "Coordenador do Projeto",
-      institution: "IFTO - Instituto Federal do Tocantins",
-      bio: "Pesquisador em ecologia e conservação da fauna",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=joao",
-      social: [
-        { icon: Linkedin, url: "#", label: "LinkedIn" },
-        { icon: Mail, url: "mailto:joao@ifto.edu.br", label: "Email" },
-      ],
+      name: "Polyanni Dallara Dantas Oliveira",
+      role: "Coordenadora",
+      institution: "Tucantins Silvestre",
+      bio: "Coordenadora do projeto",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=polyanni",
+      social: [],
     },
-    {
-      name: "Dra. Maria Santos",
-      role: "Pesquisadora Principal",
-      institution: "IFRR - Instituto Federal de Roraima",
-      bio: "Especialista em biodiversidade amazônica",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=maria",
-      social: [
-        { icon: Linkedin, url: "#", label: "LinkedIn" },
-        { icon: Mail, url: "mailto:maria@ifrr.edu.br", label: "Email" },
-      ],
-    },
-    {
-      name: "Prof. Carlos Oliveira",
-      role: "Metodologia Científica",
-      institution: "IFTO - Instituto Federal do Tocantins",
-      bio: "Especialista em métodos de amostragem da fauna",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=carlos",
-      social: [
-        { icon: Linkedin, url: "#", label: "LinkedIn" },
-        { icon: Mail, url: "mailto:carlos@ifto.edu.br", label: "Email" },
-      ],
-    },
-    {
-      name: "Fernanda Costa",
-      role: "Educação Ambiental",
-      institution: "IFTO - Instituto Federal do Tocantins",
-      bio: "Gestora de conteúdo e engajamento comunitário",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=fernanda",
-      social: [
-        { icon: Linkedin, url: "#", label: "LinkedIn" },
-        { icon: Mail, url: "mailto:fernanda@ifto.edu.br", label: "Email" },
-      ],
-    },
+    { name: "Aline Torquato Tavares", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=aline.torquato", social: [] },
+    { name: "Elenir Campelo Gomes", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=elenir.campelo", social: [] },
+    { name: "Darcy Alves Bomfim", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=darcy.bomfim", social: [] },
+    { name: "Idomeneu Gomes de Souza Filho", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=idomeneu.souza", social: [] },
+    { name: "Vitor Mendes Vilas Boas", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=vitor.mendes", social: [] },
+    { name: "Hortencia Soardi Maricato", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=hortencia.maricato", social: [] },
+    { name: "Agnes Assunção", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=agnes.assuncao", social: [] },
+    { name: "Adão Pereira da Silva", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=adao.silva", social: [] },
+    { name: "Neusirene Pereira de Oliveira Ribeiro", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=neusirene.ribeiro", social: [] },
+    { name: "Rafael Teixeira de Sousa", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=rafael.sousa", social: [] },
+    { name: "Yunã Lurie Araújo Passos", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=yuna.passos", social: [] },
+    { name: "Geovana dos Santos Sousa", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=geovana.sousa", social: [] },
+    { name: "Douglas Silvino", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=douglas.silvino", social: [] },
+    { name: "Priscila Áquila da Costa Moura", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=priscila.moura", social: [] },
+    { name: "Maria Clara da Costa Moura", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=mariaclara.moura", social: [] },
+    { name: "José Eduardo Garcia Campos", role: "Pesquisador(a)", institution: "Tucantins Silvestre", bio: "", avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=joseeduardo.campos", social: [] },
   ];
 
   const partners = [
     {
       name: "IFTO",
-      logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoodle.ifto.edu.br%2F&psig=AOvVaw3r_xAPhpdBcAQFZH7QnyKD&ust=1764869327202000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiz-tz4oZEDFQAAAAAdAAAAABAE",
+      logo: "/images/logo_ifto.png",
       description: "Instituto Federal do Tocantins",
     },
     {
       name: "IFRR",
-      logo: "https://via.placeholder.com/120x60?text=IFRR",
+      logo: "/images/logo_ifrr.jpg",
       description: "Instituto Federal de Roraima",
     },
   ];
+
+  const getInitials = (name: string) => {
+    if (!name) return "";
+    const parts = name.trim().split(/\s+/);
+    if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
+    return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+  };
 
   return (
     <section className="py-20 bg-gradient-to-b from-background to-background/50 relative overflow-hidden">
@@ -86,11 +73,9 @@ const TeamSection = () => {
               >
                 <CardContent className="p-6 text-center space-y-4">
                   <div className="flex justify-center">
-                    <img
-                      src={member.avatar}
-                      alt={member.name}
-                      className="h-24 w-24 rounded-full border-2 border-primary/20 group-hover:border-primary/40 transition-all"
-                    />
+                    <div className="h-24 w-24 rounded-full bg-primary/8 border-2 border-primary/20 flex items-center justify-center text-xl font-black text-foreground">
+                      {getInitials(member.name)}
+                    </div>
                   </div>
                   <div>
                     <h3 className="text-lg font-black text-foreground tracking-tight mb-1">
