@@ -52,7 +52,7 @@ const TeamSection = () => {
   const partners = [
     {
       name: "IFTO",
-      logo: "https://via.placeholder.com/120x60?text=IFTO",
+      logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoodle.ifto.edu.br%2F&psig=AOvVaw3r_xAPhpdBcAQFZH7QnyKD&ust=1764869327202000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiz-tz4oZEDFQAAAAAdAAAAABAE",
       description: "Instituto Federal do Tocantins",
     },
     {

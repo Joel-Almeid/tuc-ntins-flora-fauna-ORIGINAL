@@ -7,7 +7,7 @@
     "description": "O caititu é um mamífero de médio porte da família Tayassuidae, encontrado em florestas e cerrados. Possui pelagem escura com uma faixa mais clara no pescoço. Vive em bandos e se alimenta de frutos, raízes e pequenos invertebrados.",
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas tropicais, cerrado e áreas de transição",
-    "images": ["/images/caititu-1.jpg", "/images/caititu-2.jpg"]
+    "images": []
   },
   {
     "id": "jaguatirica",
@@ -56,13 +56,10 @@
     "habitat": "Florestas próximas a cursos d'água",
     "images": [
       "/images/paca-1.jpg",
-      "/images/paca-2.jpg",
-      "/images/paca-3.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Paca/DSCF0537.JPG",
       "/images/ilha-do-bananal/Ilha do Bananal/Paca/DSCF0539.JPG"
     ],
     "videos": [
-      "/images/videos/paca-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Paca/PACA1.mp4"
     ],
     "audio": "/audio/paca.mp3"
@@ -90,9 +87,7 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas tropicais e cerrado",
     "images": [
-      "/images/cutia-1.jpg",
-      "/images/cutia-2.jpg",
-      "/images/cutia-3.jpg"
+      "/images/cutia-1.jpg"
     ],
     "audio": "/audio/cutia.mp3"
   },
@@ -124,11 +119,9 @@
     "habitat": "Cerrado, campos e áreas de transição",
     "images": [
       "/images/cachorro-do-mato-1.jpg",
-      "/images/cachorro-do-mato-2.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Cachorro-do-mato/DSCF0221 (2).JPG"
     ],
     "videos": [
-      "/images/videos/cachorro-do-mato-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Cachorro-do-mato/Cachorro (1).mp4"
     ],
     "audio": "/audio/cachorro-do-mato.mp3"
@@ -146,13 +139,9 @@
       "/images/veado-catingueiro-2.jpg",
       "/images/veado-catingueiro-3.jpg",
       "/images/veado-catingueiro-4.jpg",
-      "/images/veado-catingueiro-5.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Veado-catingueiro/DSCF0073 (1).JPG"
     ],
     "videos": [
-      "/images/videos/veado-catingueiro-1.mp4",
-      "/images/videos/veado-catingueiro-2.mp4",
-      "/images/videos/veado-catingueiro-3.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Veado-catingueiro/veado-catingueiroilh2.mp4"
     ],
     "audio": "/audio/veado-catingueiro.mp3"
@@ -168,7 +157,6 @@
     "images": [
       "/images/jacupemba-1.jpg",
       "/images/jacupemba-2.jpg",
-      "/images/jacupemba-3.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Jacupemba/DSCF0263.JPG"
     ],
     "audio": "/audio/jacupemba.mp3"
@@ -183,15 +171,11 @@
     "habitat": "Florestas tropicais, cerrado e áreas próximas a cursos d'água",
     "images": [
       "/images/anta-1.jpg",
-      "/images/anta-2.jpg",
-      "/images/anta-3.jpg",
-      "/images/anta-4.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0919-023210_000134.JPG",
       "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0920-192213_000188.JPG",
       "/images/ilha-do-bananal/Ilha do Bananal/Anta/2025-0926-194004_000302.JPG"
     ],
     "videos": [
-      "/images/videos/anta-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Anta/anta(compilado) (1).mp4"
     ],
     "audio": "/audio/anta.mp3"
@@ -239,11 +223,9 @@
     "habitat": "Florestas, cerrado e áreas de transição",
     "images": [
       "/images/quati-1.jpg",
-      "/images/quati-2.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Quati/DSCF0091.JPG"
     ],
     "videos": [
-      "/images/videos/quati-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Quati/quati1.mp4"
     ],
     "audio": "/audio/quati.mp3"
@@ -324,8 +306,6 @@
     "habitat": "Florestas secundárias e bordas florestais",
     "images": [
       "/images/juriti-pupu-1.jpg",
-      "/images/juriti-pupu-2.jpg",
-      "/images/juriti-pupu-3.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Juriti-pupu/DSCF0199.JPG",
       "/images/ilha-do-bananal/Ilha do Bananal/Juriti-pupu/DSCF0243.JPG"
     ],
@@ -361,7 +341,7 @@
     "description": "Maior gambá das Américas com pelagem cinza e face branca. Marsupial onívoro que se alimenta de frutas, insetos e pequenos vertebrados. Famoso por fingir-se de morto quando ameaçado.",
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas, cerrados e áreas urbanas",
-    "images": ["/images/gamba-comum-1.jpg"],
+    "images": [],
     "videos": ["/images/ilha-do-bananal/Ilha do Bananal/Gambá-comum/DSCF0058.AVI"],
     "audio": "/audio/gamba-comum.mp3"
   },
@@ -492,7 +472,7 @@
       "/images/seriema-2.jpg",
       "/images/seriema-3.jpg"
     ],
-    "videos": ["/images/videos/seriema-1.mp4", "/images/videos/seriema-2.mp4"],
+    "videos": [],
     "audio": ""
   },
   {
@@ -504,7 +484,6 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas tropicais, cerrado e áreas de transição",
     "images": [
-      "/images/queixada-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Queixada/DSCF0093.JPG"
     ],
     "videos": [
@@ -522,11 +501,9 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Cerrado, campos e áreas abertas",
     "images": [
-      "/images/tatu-peba-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Tatu-peba/DSCF0107 (2).JPG"
     ],
     "videos": [
-      "/images/videos/tatu-peba-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Tatu-peba/IMAG0037_7.mp4"
     ],
     "audio": ""
@@ -540,11 +517,9 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Matas ciliares, pântanos e áreas alagadas",
     "images": [
-      "/images/saracura-tres-potes-1.jpg",
-      "/images/saracura-tres-potes-2.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Saracura-três-potes/DSCF0199.JPG"
     ],
-    "videos": ["/images/videos/saracura-tres-potes-1.mp4"],
+    "videos": [],
     "audio": ""
   },
   {
@@ -556,7 +531,6 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Áreas alagadas, pântanos e margens de rios",
     "images": [
-      "/images/tapicuru-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Tapicuru/DSCF0127 (3).JPG"
     ],
     "audio": ""
@@ -570,7 +544,6 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Áreas abertas, cerrado e áreas urbanas",
     "images": [
-      "/images/urubu-cabeca-preta-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Urubu-de-cabeça-preta/DSCF0027 (1).JPG"
     ],
     "audio": ""
@@ -584,7 +557,6 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas, cerrado e áreas florestadas",
     "images": [
-      "/images/xexeu-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Xexéu/DSCF0169 (1).JPG"
     ],
     "audio": ""
@@ -598,11 +570,9 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Áreas próximas a rios, lagos e pântanos",
     "images": [
-      "/images/capivara-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Capivara/DSCF0551.JPG"
     ],
     "videos": [
-      "/images/videos/capivara-1.mp4",
       "/images/ilha-do-bananal/Ilha do Bananal/Capivara/Capivara.mp4"
     ],
     "audio": ""
@@ -615,7 +585,7 @@
     "description": "Tamanduá de pequeno porte com tamanho menor que o tamanduá-bandeira. Possui pelagem predominantemente amarelo-parda com uma faixa preta característica. Possui cauda preênsil e é excelente escalador. Alimenta-se de formigas e cupins.",
     "conservation": "Pouco Preocupante",
     "habitat": "Florestas, cerrado e áreas arborizadas",
-    "images": ["/images/tamandua-mirim-1.jpg"],
+    "images": [],
     "audio": ""
   },
   {
@@ -627,7 +597,6 @@
     "conservation": "Pouco Preocupante",
     "habitat": "Áreas alagadas, lagoas e pântanos",
     "images": [
-      "/images/jaçanã-1.jpg",
       "/images/ilha-do-bananal/Ilha do Bananal/Jaçanã/DSCF0557 (1).JPG"
     ],
     "audio": ""

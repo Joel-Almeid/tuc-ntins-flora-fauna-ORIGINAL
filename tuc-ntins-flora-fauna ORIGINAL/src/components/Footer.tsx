@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
               <img
                 src="/images/logo.png"
-                alt="Tucantins Silvestre"
+                alt="Tucãtins Silvestre"
                 className="h-12 w-auto"
               />
               <div className="flex flex-col">
@@ -76,7 +76,7 @@ const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-border/30 text-center text-sm text-muted-foreground">
           <p>
-            &copy; {new Date().getFullYear()} Tucantins Silvestre. Todos os
+            &copy; {new Date().getFullYear()} Tucãtins Silvestre. Todos os
             direitos reservados.
           </p>
         </div>

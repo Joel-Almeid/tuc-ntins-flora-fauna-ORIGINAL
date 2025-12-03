@@ -1,73 +1,111 @@
-# Welcome to your Lovable project
+🌿 Tucântins Flora & Fauna
 
-## Project info
+Projeto desenvolvido para apresentar, catalogar e destacar a biodiversidade do Tocantins, incluindo sua flora, fauna e informações ambientais relevantes.
+Este site serve como uma plataforma educativa e informativa, com foco especial na preservação e valorização da natureza tocantinense.
 
-**URL**: https://lovable.dev/projects/fb217fb4-2633-488b-9043-affc14c7d893
+📌 📁 Sobre o Projeto
 
-## How can I edit this code?
+O Tucântins Flora & Fauna é uma aplicação web criada com React + Vite, com uma estrutura moderna, leve e eficiente.
+O objetivo é oferecer:
 
-There are several ways of editing your application.
+🐦 Catálogo de espécies com fotos, descrições e habitats
 
-**Use Lovable**
+🌱 Informações sobre a flora regional
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fb217fb4-2633-488b-9043-affc14c7d893) and start prompting.
+🐾 Dados sobre a fauna do Tocantins
 
-Changes made via Lovable will be committed automatically to this repo.
+🗺️ Conteúdo interativo, educativo e acessível
 
-**Use your preferred IDE**
+🎨 Interface clara, moderna e atraente
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🚀 Tecnologias Utilizadas
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Este projeto foi desenvolvido utilizando:
 
-Follow these steps:
+React 18
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Vite
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+TypeScript
 
-# Step 3: Install the necessary dependencies.
-npm i
+React-SWC
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+CSS moderno / Tailwind (se o projeto usa)
+
+ES Modules
+
+Node.js / npm
+
+🛠️ Como Rodar o Projeto Localmente
+✔️ 1. Clone o repositório
+git clone https://github.com/seu-repo/tucantins-flora-fauna.git
+
+✔️ 2. Entre na pasta do projeto
+cd Tucãtins-flora-fauna
+
+✔️ 3. Instale as dependências
+npm install
+
+✔️ 4. Inicie o servidor de desenvolvimento
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+O projeto ficará disponível normalmente em:
 
-**Use GitHub Codespaces**
+👉 http://localhost:5173
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+ou conforme a porta definida no vite.config.ts.
 
-## What technologies are used for this project?
+📂 Estrutura do Projeto (Resumo)
+/
+├── public/            # Arquivos estáticos
+├── src/
+│   ├── assets/        # Imagens e mídias
+│   ├── components/    # Componentes reutilizáveis
+│   ├── pages/         # Páginas do site
+│   ├── sections/      # Seções específicas do layout
+│   ├── styles/        # Estilos globais
+│   └── main.tsx       # Ponto de entrada
+├── index.html
+├── vite.config.ts
+└── package.json
 
-This project is built with:
+🌎 Objetivo Geral
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+O intuito do site é:
 
-## How can I deploy this project?
+Promover a educação ambiental
 
-Simply open [Lovable](https://lovable.dev/projects/fb217fb4-2633-488b-9043-affc14c7d893) and click on Share -> Publish.
+Divulgar a biodiversidade local
 
-## Can I connect a custom domain to my Lovable project?
+Incentivar a conservação da fauna e flora
 
-Yes, you can!
+Servir como referência visual e informativa para estudantes, pesquisadores e público geral
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🖼️ Possíveis Sessões do Site
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Catálogo de Animais (aves, mamíferos, répteis, etc.)
+
+Catálogo de Plantas
+
+Mapa das Regiões do Tocantins
+
+Curiosidades ambientais
+
+Galerias de imagens
+
+Área de estudos ou pesquisa
+
+🤝 Contribuição
+
+Fique à vontade para contribuir com melhorias, sugestões ou novas funcionalidades.
+
+📄 Licença
+
+Este projeto está sob uma licença aberta.
+Você pode usar, estudar, modificar e distribuir — desde que dê os devidos créditos quando necessário.
+
+✨ Autor
+
+Projeto desenvolvido pelos estudantes do Instituto federal do Tocantins,  Joel de Almeida, Wilton Jr, Matheus Piano, Gustavo Portela, Lauanna Ramos, Thiago Isaias e Gustavo Milhomes.
+Este trabalho integra iniciativas educacionais e ambientais, valorizando o patrimônio natural do Tocantins.

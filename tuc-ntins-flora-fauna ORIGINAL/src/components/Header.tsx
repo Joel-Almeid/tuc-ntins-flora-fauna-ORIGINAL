@@ -14,12 +14,12 @@ const Header = () => {
         >
           <img
             src="/images/logo.png"
-            alt="Tucantins Silvestre"
+            alt="Tucãtins Silvestre"
             className="h-12 w-auto"
           />
           <div className="flex flex-col">
             <span className="text-xl font-bold text-primary tracking-wider">
-              TUCANTINS
+              TUCÃTINS
             </span>
             <span className="text-xs text-foreground/60 tracking-widest">
               SILVESTRE
